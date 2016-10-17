@@ -44,8 +44,6 @@ ____
 4. You must also include enough documentation so that a novice user could use your application.
 5. The documentation should be at the Shiny website itself. Do not post to an external link.
 
-Done and deployed in shinyapps.io:
-[part1_devdataprod-shiny](https://swhgoon.shinyapps.io/part1_devdataprod-shiny/)
 
 ____
 ## Part2: Reproducible Pitch Presentation  
